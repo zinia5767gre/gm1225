@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actofc/setup_in.php");
+header("Location: https://uk.norton.com/internetsecurity?inid=nortoncom_nav_internetsecurity_homepage:home");
 die();
 ?>
