@@ -1,4 +1,4 @@
 <?php
-header("Location: https://start-your-product.site/actnor/");
+header("Location: https://connect-device-here.wixsite.com/website");
 die();
 ?>
